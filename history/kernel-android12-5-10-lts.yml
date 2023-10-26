@@ -1,7 +1,7 @@
 url: http://aospxref.com/kernel-android12-5.10-lts/
-status: up
-code: 200
-responseTime: 269
-lastUpdated: 2023-10-25T23:00:56.131Z
+status: down
+code: 500
+responseTime: 569
+lastUpdated: 2023-10-26T17:57:40.534Z
 startTime: 2023-10-07T03:11:14.770Z
 generator: Upptime <https://github.com/upptime/upptime>
